@@ -66,3 +66,11 @@ footer.dark-mode {
 	color: #e5e8e8;
   transition: 600ms;
 }
+
+#botao.tamanho {
+	width: 100px;
+	font-size: 15px;
+	transition: 700ms;
+transform: rotateY(360deg);
+
+}
